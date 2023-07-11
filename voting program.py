@@ -267,24 +267,6 @@ else:
             print("CS SECRETARY",data_count[1][0],winner(data_count[1][0]))
             print("CS JOINT SECRETARY",data_count[0][0],winner(data_count[0][0]))
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 print("the voting is over")
 print(" ")
 print("ANALYSIS")
